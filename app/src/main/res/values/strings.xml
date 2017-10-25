@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayoutViewPager</string>
+    <string name="fragment_screen_one">One</string>
+    <string name="fragment_screen_two">Two</string>
+    <string name="fragment_screen_three">Three</string>
+    <string name="tab__favourite">Favourite</string>
+    <string name="tab_call">Call</string>
+    <string name="tab_contact">Contact</string>
+</resources>
